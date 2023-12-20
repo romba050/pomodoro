@@ -6,6 +6,8 @@
 # in order to run this script, do:
 # $ venv pomodoro
 # $ ./pomodoro.py
+# For more venv documentation, see: https://github.com/bbengfort/venv/blob/master/virtualenv_cheatsheet.md
+
 # import dbus # https://en.wikipedia.org/wiki/D-Bus
 import time 
 from plyer import notification
